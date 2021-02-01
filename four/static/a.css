@@ -1,0 +1,14 @@
+body
+{
+  background-image: url('image/car.jpg');
+  background-size: auto;
+  color: rgba(255, 110, 120);
+  font-size: 1px
+  align:center;
+}
+a{
+  color:red
+}
+table{
+  border: 3px solid red;
+}
